@@ -101,7 +101,7 @@
 	    </snapshotRepository>
 	</distributionManagement>
 	
-	<build>
+	<build>                                                                        
 		<finalName>maven-web-application</finalName>
 		<plugins>
 			<plugin>
